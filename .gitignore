@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[ there ]/
+/[Oo]bj/
+/[Bb]uild/
+/[Builds]/
+/[Log]/
+/[Temp]/
+*.sln
+*.csproj
+*.unityproj
+/[Tt]emp/
+.DS_Store
